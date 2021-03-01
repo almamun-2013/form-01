@@ -1,0 +1,102 @@
+header{
+    height: 100px;
+        background-color:#5CBAFF;
+        vertical-align: middle;
+        display:flex;
+        align-items: center;
+        }
+        nav{
+        
+        width: 40%;
+        
+        margin: auto;
+        }
+        nav ul{
+        
+        margin: 0;
+        list-style: none;
+        padding: 0;
+        overflow: hidden;
+        }
+        nav ul li{
+        float: left;
+        color: #fff;
+        text-transform: capitalize;
+        margin-left: 20px;
+        }
+        .contant{
+    overflow: hidden;
+        }
+        .left{
+    width: 40%;
+    float: left;
+    background-color:#5CBAFF;
+    
+        }
+        
+      .left img{
+          width: 100%;
+      }
+        .right{
+    width: 60%;
+    float: right;
+    background-color: #0093ff;
+   display: flex;
+   justify-content: center;
+   height: 500px;
+   align-items: center;
+        }
+        .right-form{
+    color:#fff;
+    margin: 0;
+    
+    
+   
+    
+    }
+        .right-form h2{
+            color:#fff;
+            margin: 0;
+              text-transform: capitalize;
+              font-size: 30px;
+              margin-bottom: 15px;
+
+        }
+        .right-form p{
+            color:#fff;
+            margin: 0;
+           margin-bottom: 15px;
+        }
+        .right-form form{
+          width: 100%;  
+
+        }
+        .right-form form input{
+            width: 100%;
+            padding: 10px;
+            left: 3px;
+            right: 3px;
+            border: none;
+            margin-bottom: 10px;
+        }
+        .social-icon{
+    margin-top: 30px;
+        }
+        .social-icon ul{
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+
+        .social-icon ul li{
+            float: left;
+            color: #fff;
+font-size: 20px;
+margin-right: 10px;
+        }
+    
+    
+    
+    
+    
